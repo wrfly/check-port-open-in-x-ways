@@ -2,6 +2,8 @@
 
 - [bash](bash.sh)
 - [curl](curl.sh)
-- [nc](nc.sh)
 - [golang](check.go)
+- [javascript](check.js)
+- [nc](nc.sh)
 - [python](check.py)
+- [rust](check.rs)
